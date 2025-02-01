@@ -1,4 +1,4 @@
-Great choice! Here's a step-by-step plan for building the frontend using **React**, **Vite**, and **Material UI**:
+a step-by-step plan for building the frontend using **React**, **Vite**, and **Material UI**:
 
 ---
 
@@ -151,4 +151,3 @@ Use Material UI's components and theming to create a professional design:
 
 ---
 
-Let me know which component you'd like to start with, and I can guide you in more detail! 🚀
